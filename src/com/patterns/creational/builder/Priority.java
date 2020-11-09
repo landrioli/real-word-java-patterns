@@ -1,5 +1,5 @@
 package com.patterns.creational.builder;
 
-public class MessageBuilder {
-
+public enum Priority {
+    LOW, MID, HIGH;
 }
