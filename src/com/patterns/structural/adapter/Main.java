@@ -1,7 +1,4 @@
-package com.patterns.behavioral.adapter;
-
-import com.patterns.creational.builder.Message;
-import com.patterns.creational.builder.Priority;
+package com.patterns.structural.adapter;
 
 public class Main {
     public static void main(String[] args){

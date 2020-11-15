@@ -1,4 +1,4 @@
-package com.patterns.behavioral.adapter;
+package com.patterns.structural.adapter;
 
 public class Adaptee {
 
